@@ -10,14 +10,14 @@ We have downloaded a fuel consumption dataset, ```FuelConsumption.csv```, which 
 ## About Linear Regression
 Linear Regression fits a linear model with coefficients B = (B1, ..., Bn) to minimize the 'residual sum of squares' between the independed x in the dataset, and the depended y by the linear approximation.
 
-## Regression models for following factors:
+## Applying Linear Regression on following factors:
 1. Engine Size
 2. Cylinder
 3. Fuel Consumption in City
 4. Fuel Consumption on Highway
 5. Fuel Consumption Combined
 
-## Evironment Setting
+## Environment Setting
 
 1. Imported needed packages
 2. Understanding the data
