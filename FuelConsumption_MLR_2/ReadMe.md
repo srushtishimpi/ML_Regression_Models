@@ -1,1 +1,2 @@
 # Fuel Consuption - Multiple Linear Regression
+In this project, I am using dataset of fuel consumption and Carbon dioxide emission of cars. To proceed further, this data split into training and test sets. Then created a model using training set and evaluate it using test set. Finally use model to predict unknown value and compared all the attributs to find which factor is affecting this fuel consumption the most.
