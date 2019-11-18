@@ -31,5 +31,5 @@ Linear Regression fits a linear model with coefficients B = (B1, ..., Bn) to min
 4. Creating a data model
 5. Plotting the data for visualization
 6. Testing the data
-7. Calculating the accuracy of the regression model
+7. Predicting the accuracy of the regression model
 8. Comparing and evaluating best regression model
